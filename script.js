@@ -81,3 +81,5 @@ const obj2 = {Anna: 500,
 
 const answer = prompt("Вам есть 18?", "18");
 console.log(answer)
+
+Text
